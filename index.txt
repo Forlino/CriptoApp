@@ -1,0 +1,296 @@
+ForlinoNFT - Descubre la colección de arte o NFTs
+
+Esta es una plantilla HTML de NFT hecha por Forlino
+
+
+
+#---------- ENCABEZADO ----------#
+
+alt = Inicio ForlinoNFT
+
+Inicio
+Explorar
+Billetera
+Sobre Nosotros
+Contacto
+
+aria-label = billetera
+<ion-icon name="wallet-outline"></ion-icon>
+
+aria-label = cuenta ForlinoNFT: Fiona doe
+
+alt = Fiona doe
+
+aria-label = alternar menú
+
+<ion-icon name="menu-outline" aria-hidden="true" class="default-icon"></ion-icon>
+
+<ion-icon name="close-outline" aria-hidden="true" class="active-icon"></ion-icon>
+
+
+
+#---------- HÉROE ----------#
+
+Descubre la colección
+de arte o NFTs
+
+¡Somos un gran mercado dedicado a conectar a los grandes artistas de todo ForlinoNFT con sus fans y coleccionistas de tokens únicos!
+
+Explorar ahora
+
+
+
+#---------- COLECCIÓN DESTACADA ----------#
+
+Colecciones Destacadas
+
+Ver Más
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Colección Digital
+alt = Perfil de CutieGirl
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+Colección Digital
+
+por @CutieGirl
+25 Artículos
+
+alt = Colección GIF
+alt = Perfil de ButterFly
+
+Colección GIF
+por @ButterFly
+
+alt = Colección Deportiva
+alt = Perfil de NorseQueen
+
+Colección Deportiva
+por @NorseQueen
+
+alt = Colección Fotográfica
+alt = Perfil de BigBull
+
+Colección Fotográfica
+por @BigBull
+
+alt = Colección de Ilustraciones
+alt = Perfil de Angel
+
+Colección de Ilustraciones
+por @Angel
+
+alt = Colección de Animaciones
+alt = Perfil de CrazyAnyone
+
+Colección de Animaciones
+por @CrazyAnyone
+
+aria-label = Deslizar al ítem anterior
+<ion-icon name="chevron-back-sharp" aria-hidden="true"></ion-icon>
+
+aria-label = Deslizar al siguiente ítem
+<ion-icon name="chevron-forward-sharp" aria-hidden="true"></ion-icon>
+
+Ver Más
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- DESCUBRIR ARTÍCULOS ----------#
+
+Descubrir Artículos
+
+alt = Genuine Undead #3902
+
+<ion-icon name="flash" aria-hidden="true"></ion-icon>
+Hacer Oferta
+
+alt = Perfil de StreetBoy
+@StreetBoy
+
+Genuine Undead #3902
+
+Precio
+alt = icono de ethereum
+3.5 ETH
+
+Oferta Más Alta
+3.55 ETH
+
+
+alt = Windchime #768
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+5d 04h 18m 04s
+
+alt = Perfil de CutieGirl
+@CutieGirl
+Windchime #768
+
+alt = Probably A Label #3277
+alt = Perfil de ButterFly
+@ButterFly
+Probably A Label #3277
+
+alt = Probably A Label #1711
+alt = Perfil de NorseQueen
+@NorseQueen
+Probably A Label #1711
+
+alt = Shibuya Scramble Punks
+alt = Perfil de BigBull
+@BigBull
+Shibuya Scramble Punks
+
+alt = Probably A Label #650
+alt = Perfil de Angel
+@Angel
+Probably A Label #650
+
+alt = Looki #0147
+10d 23h 24m 10s
+alt = Perfil de CrazyAnyone
+@CrazyAnyone
+Looki #0147
+
+alt = Poob #285
+alt = Perfil de Princess
+@Princess
+Poob #285
+
+Explorar Más
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- VENDEDORES ----------#
+
+Mejores Creadores y Vendedores
+
+alt = Perfil de Steven Townsend
+<ion-icon name="checkmark-circle"></ion-icon>
+
+Steven Townsend
+@StreetBoy
+
+aria-label = Contratar a Steven Townsend
+<ion-icon name="person-add-outline" aria-hidden="true"></ion-icon>
+
+Tiffany Betancourt
+@CutieGirl
+
+Jacqueline Burns
+@ButterFly
+
+Mari Harrington
+@NorseQueen
+
+Floyd Glasgow
+@BigBull
+
+Donna Schultz
+@Angel
+
+Joshua Morris
+@CrazyAnyone
+
+Rosaria Vargas
+@Princess
+
+Carl Williams
+@LooserBad
+
+
+
+#---------- PREGUNTAS Y RESPUESTAS ----------#
+
+Preguntas y Respuestas
+
+¡Somos un gran mercado dedicado a conectar a los grandes artistas de todo ForlinoNFT con sus fans y coleccionistas de tokens únicos!
+
+¿Cómo funciona?
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+Existen muchas variaciones de pasajes de Lorem Ipsum disponibles, pero la mayoría han sufrido alteraciones de alguna forma.
+
+¿Necesito un diseñador para usar ForlinoNFT?
+
+¿Qué necesito hacer para empezar a vender?
+
+¿Qué pasa cuando recibo un pedido?
+
+
+
+#---------- CONTACTO ----------#
+
+¿Tienes Preguntas? ¡Ponte en contacto!
+
+¡Somos un gran mercado dedicado a conectar a los grandes artistas de todo ForlinoNFT con sus fans y coleccionistas de tokens únicos!
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Contáctanos
+
+
+
+#---------- BOLETÍN ----------#
+
+¡Suscríbete al Boletín!
+Suscríbete para recibir las últimas actualizaciones e información.
+
+Introduce tu correo electrónico:
+
+Suscribirse
+
+<ion-icon name="mail-open-outline" aria-hidden="true" class="bg-icon"></ion-icon>
+
+<ion-icon name="document-text-outline" aria-hidden="true" class="bg-icon"></ion-icon>
+
+
+
+#---------- PIE DE PÁGINA ----------#
+
+alt = Inicio ForlinoNFT
+
+Compra, vende y descubre activos digitales exclusivos de los mejores artistas del mundo de los NFTs.
+ ForlinoNFT
+
+<ion-icon name="chevron-forward"></ion-icon>
+Explorar Artículo
+
+Subasta en Vivo
+Actividades
+Billeteras
+Creadores
+
+Enlaces Útiles
+
+Sobre Nosotros
+Blog y Noticias
+Términos y Condiciones
+Política de Privacidad
+Iniciar Sesión
+Contáctanos
+
+Descarga la app de ForlinoNFT
+
+alt = Descargar la app de ForlinoNFT desde AppStore
+alt = Descargar la app de ForlinoNFT desde PlayStore
+
+Detalles de Contacto
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+lucasforlino2001@gmail.com
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++111 234-567-891
+
+&copy; 2025 ForlinoNFT. Desarrollado con ❤ por Forlino.
+
+
+
+#---------- VOLVER ARRIBA ----------#
+
+aria-label = volver arriba
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>

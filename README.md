@@ -5,6 +5,16 @@ Bienvenido a **ForlinoNFT*, un sitio web innovador que combina los mundos de los
 
 ## Contenido
 
+## INICIO
+![Intro](https://github.com/user-attachments/assets/cdd8fc69-46c7-406d-a8ee-f1e7a162563b)
+
+## MAS FRECUENTES
+![Mas frecuentes](https://github.com/user-attachments/assets/939e57fd-781c-4e0a-a219-bf20d14235fa)
+
+## EVENTOS Y FUNCIONAMIENTO GENERAL
+
+![CriptoAPP](https://github.com/user-attachments/assets/7473d3ab-a07d-4842-a371-8eacdafcc05b)
+
 
 
 ## Características ⭐
